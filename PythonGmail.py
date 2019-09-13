@@ -25,3 +25,4 @@ print("Login Successfuly")
 mail.sendmail(sender_email, receiver_email, text)
 print("Email Sent to", receiver_email)
 mail.quit()
+
